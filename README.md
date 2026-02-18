@@ -1,1 +1,1 @@
-# Credit_Risk_Modeling
+# Credit Risk Scorecard Modeling

@@ -1,6 +1,6 @@
 # 📊 Credit Risk Modelling – WOE & Logistic Regression
 
-##  Overview
+## 🔹Overview
 Built a **credit risk scorecard model** to predict loan default using customer demographic and financial data.  
 The project follows an industry-standard workflow using **WOE, IV, and Logistic Regression** for an interpretable and regulator-friendly model.
 
